@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zero-code-website-new/static/css/main.d7fca2d0.css",
+    "main.js": "/zero-code-website-new/static/js/main.c7d3500a.js",
+    "static/js/453.5c31f8fc.chunk.js": "/zero-code-website-new/static/js/453.5c31f8fc.chunk.js",
+    "index.html": "/zero-code-website-new/index.html",
+    "main.d7fca2d0.css.map": "/zero-code-website-new/static/css/main.d7fca2d0.css.map",
+    "main.c7d3500a.js.map": "/zero-code-website-new/static/js/main.c7d3500a.js.map",
+    "453.5c31f8fc.chunk.js.map": "/zero-code-website-new/static/js/453.5c31f8fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7fca2d0.css",
+    "static/js/main.c7d3500a.js"
+  ]
+}
